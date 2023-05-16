@@ -4,5 +4,5 @@ This script execute chown on every file (and directory) in volume, then increase
 
 How to use it:
 ```bash
-migration.sh /path/to/volume
+docker-ns-migration.sh /path/to/docker/volume
 ```
